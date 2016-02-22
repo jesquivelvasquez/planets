@@ -1,4 +1,6 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfwoman
 But the Mummmy will appreciate the lack of humidity 
-We added a different line in the other copy.
+It is slightly humid
+
+>>>>>>> e6632edf6c4cd0a4cc87518a7406214c50f0241b
